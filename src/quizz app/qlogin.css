@@ -1,0 +1,42 @@
+.quiz_login{
+    display: flex;
+    background-color:cornsilk;
+ 
+    background-size: cover;
+  
+}
+.loginimg img{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.fr_inp{
+    margin-top: 150px;
+    margin-left: 100px;
+    height: 300px;
+    width: 400px;
+   border-radius: 15px;
+    background-color:rgb(82, 152, 223);
+    padding:50px 20px 30px 20px;
+    text-align: center;
+}
+.fr_inp input{
+    height: 25px;
+    width: 200px; 
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.fr_inp button{
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: black;
+    background-color: rgb(229, 90, 90);
+    font-size: 15px;
+}
+.fr_inp button:hover{
+    background-color: green;
+    color: white;
+}
+.btn link{
+    text-decoration: none;
+    color: white;
+}

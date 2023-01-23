@@ -1,0 +1,18 @@
+.quixxmain{
+    background: url("/public/images/loginimg.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.quixxmain button{
+    margin-left: 50%;
+    margin-top: 30px;
+    padding: 8px 20px;
+    background-color: black;
+    color: black;
+}
+.Link{
+    text-decoration: underline;
+    color: cornsilk;
+    font-size: 20px;
+}
+

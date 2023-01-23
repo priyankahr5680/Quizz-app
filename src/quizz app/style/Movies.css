@@ -1,0 +1,23 @@
+
+.top{
+    background-color: white;
+  
+   
+}
+.details{
+position: relative;
+top:30px;
+display: inline-block;
+width:400px;
+height: 180px;
+border: 1px solid whitesmoke;
+margin: 10px 40px;
+padding: 8px 5px;
+background-color:pink;
+border-radius: 15px;
+  
+}
+button{
+    border-radius: 5px;
+   
+}
